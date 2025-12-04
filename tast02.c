@@ -18,4 +18,5 @@ int main()
     float s,s1;
     scanf("%f",&s);
     printf("%.1f",s);
+    printf("%f",s);
 }
